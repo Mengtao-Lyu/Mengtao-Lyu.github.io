@@ -2,17 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mengtao (Tomy) Lyu｜吕孟韬</title>
-    <link>http://localhost:57284/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Mengtao (Tomy) Lyu｜吕孟韬</description>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Feb 2025 15:46:12 +0800</lastBuildDate>
-    <atom:link href="http://localhost:57284/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Apr 2025 12:03:52 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/activities/test/</link>
+      <pubDate>Sat, 05 Apr 2025 12:03:52 +0800</pubDate>
+      <guid>http://localhost:1313/activities/test/</guid>
+      <description>Test whehter this can update email
+</description>
+    </item>
     <item>
       <title>I have successfully defended my PhD theis</title>
-      <link>http://localhost:57284/activities/viva/</link>
+      <link>http://localhost:1313/activities/viva/</link>
       <pubDate>Sat, 22 Feb 2025 15:46:12 +0800</pubDate>
-      <guid>http://localhost:57284/activities/viva/</guid>
+      <guid>http://localhost:1313/activities/viva/</guid>
       <description>I have successfully defended my PhD thesis on 23rd Jan 2025.
 Click to check more Thanks to all the board of examaination members, and my lovely teamamtes. The defense is indelible with all your attendance.
 PhD Defense
