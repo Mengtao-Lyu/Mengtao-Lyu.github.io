@@ -24,13 +24,22 @@ header {
 }
 
 a {
+  color: var(--link-default-color, var(--primary-color));
+  text-decoration: none;
+  word-break: break-word;
+  word-wrap: break-word;
+  overflow: break-word;
+  transition: color 0.3s ease;
+}
+
+/* a {
   color: var(--primary-color);
   text-decoration: none;
   border-bottom: 2px solid var(--tertiary-color);
   word-break: break-word;
   word-wrap: break-word;
   overflow: break-word;
-}
+} */
 
 a:hover {
   color: var(--link-color);
@@ -363,7 +372,6 @@ body:not(.dark) #sun {
   float: right;
 }
 
-
 /* Add the new bio styles here */
 .bio {
   text-align: center;
@@ -376,7 +384,25 @@ body:not(.dark) #sun {
   line-height: 1.5;
 }
 
+/* Add the new email styles here */
+.email {
+  text-align: center;
+  margin: 1em auto;
+  max-width: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--primary-color);
+  font-size: 1.2em;
+  font-weight: 500;
+  line-height: 1.5;
+}
 
+.email svg {
+  height: 1.2em;
+  width: 1.2em;
+  margin-right: 0.5em;
+}
 
 .featured {
   margin-top: 0.2rem;
