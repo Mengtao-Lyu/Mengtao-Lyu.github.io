@@ -1,6 +1,6 @@
 +++
 date = '2025-06-05T13:49:05+08:00'
-draft = false
+draft = true
 title = 'I have officially graduated from The Hong Kong Polytechnic University (PolyU)'
 +++
 Feeling incredibly proud and grateful to have been able to complete my PhD at PolyU!
