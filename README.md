@@ -84,6 +84,6 @@ Check if the `public` folder is updated
 
 ```
 git add -A
-git commit -m "update News"
+git commit -m "update icon"
 git push -u origin main
 ```
