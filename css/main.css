@@ -15,6 +15,7 @@ body {
   padding-top: 4.5rem;
 }
 
+
 /* header {
   display: flex;
   align-items:center;
@@ -822,6 +823,10 @@ h6:hover .anchor {
 
 .gist .markdown-body .highlight pre, .gist .markdown-body pre {
   box-shadow: none;
+}
+
+.markdown-body, .content, .main-content {
+  text-align: justify;
 }
 
 .mermaid {
