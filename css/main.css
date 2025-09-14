@@ -374,8 +374,8 @@ body:not(.dark) #sun {
 }
 
 .avatar img {
-  height: 250px;
-  width: 250px;
+  height: 150px;
+  width: 150px;
   padding: 8px;
   border-radius: 50%;
   
