@@ -462,8 +462,9 @@ body:not(.dark) #sun {
 }
 
 .socials-icon svg {
-  height:2.0em;
-  width:2.0em;
+  height:1.5em;
+  width:1.5em;
+
   border-bottom: 2px solid var(--secondary-color);
 }
 
