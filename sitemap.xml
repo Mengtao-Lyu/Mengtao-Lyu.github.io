@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://Mengtao-Lyu.github.io/activities/</loc>
-    <lastmod>2025-11-28T19:35:25-05:00</lastmod>
+    <lastmod>2026-02-18T06:05:22-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Mengtao-Lyu.github.io/activities/hart-talk/</loc>
+    <lastmod>2026-02-18T06:05:22-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
