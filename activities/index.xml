@@ -6,8 +6,16 @@
     <description>Recent content in Activities on Mengtao (Tomy) Lyu｜吕孟韬</description>
     <generator>Hugo -- 0.162.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jun 2026 11:22:31 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 09:39:52 -0400</lastBuildDate>
     <atom:link href="https://Mengtao-Lyu.github.io/activities/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>✈️Paper Published (ADVEI)</title>
+      <link>https://Mengtao-Lyu.github.io/activities/advei-trustup/</link>
+      <pubDate>Fri, 19 Jun 2026 09:39:52 -0400</pubDate>
+      <guid>https://Mengtao-Lyu.github.io/activities/advei-trustup/</guid>
+      <description> TRUST-UP: Trustworthy reinforcement learning using safe techniques for UAV pursuit In this study, we proposed a Trustworthy Reinforcement learning Using Safe Techniques for UAV Pursuit (TRUST-UP), which consists of two key components: a safety filter constructed from Control Barrier Functions (CBFs) that transforms unsafe RL actions into provably safe flight commands, and a switching strategy that enhances feasibility while maintaining operational transparency. These components enable trustworthy AI deployment in urban airspace, satisfying technical robustness and transparency requirements for aviation certification. Trustworthy Reinforcement-learning Using Safe Techniques for UAV Pursuit (TRUST-UP)
+</description>
+    </item>
     <item>
       <title>I have received the 2025/26 Outstanding Student Project Award</title>
       <link>https://Mengtao-Lyu.github.io/activities/hkes-student/</link>
@@ -26,7 +34,7 @@ Award Certificate
       <description> Congrats to Yiteng! Our paper “From Expectation to Evaluation: Expectation Cues Systematically Bias LLM and Human Judgment” was published at ACM CHI 2026(ACM Conference on Human Factors in Computing Systems, Barcelona, Spain) </description>
     </item>
     <item>
-      <title>Paper Accepted (IJHCS)</title>
+      <title>Paper Published (IJHCS)</title>
       <link>https://Mengtao-Lyu.github.io/activities/arhud/</link>
       <pubDate>Fri, 13 Mar 2026 21:16:30 -0400</pubDate>
       <guid>https://Mengtao-Lyu.github.io/activities/arhud/</guid>
